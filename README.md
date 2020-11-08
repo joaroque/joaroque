@@ -36,11 +36,11 @@ const anmol = {
 ---
 ### Find me
 <p align="center">
-<a href="https://medium.com/hacoha"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
+  <a href="https://medium.com/hacoha"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
+  <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
+  <a href="https://twitter.com/hacooha"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
 </p>
-![](https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff)
-![](https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff)
-![](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
