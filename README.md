@@ -35,9 +35,9 @@ const anmol = {
 
 ---
 ### Find me
-![Medium](https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff)
-![Facebook](https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff)
-![Twitter](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff
+![@hacoha](https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff)
+![Joa Roque](https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff)
+![@hacoha](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
