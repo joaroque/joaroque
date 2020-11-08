@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there，I'm Joaquim 🙋‍♂️
 
-<!--
-**hacoha/hacoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://hacoha.github.io" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+</div>
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["PHP", "Python", "C", "JS"],
+    askMeAbout: ["web dev", "tech", "curious"],
+    technologies: {
+        frontend: {
+          html,
+          css["boostrap", "sass"],
+          js["vuejs", "gulp", "jquery"]
+        },
+        backEnd: {
+            node: ["express"],
+        },
+        databases: ["MongoDB", "MySQ"],
+        desktop: {
+            js["electron"],
+            php["phpdesktop"]
+        }
+    },
+    currentFocus: "Create webistes and scripts with Python",
+    funFact: "I want i girlfriend"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
