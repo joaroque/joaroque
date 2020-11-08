@@ -36,9 +36,9 @@ const anmol = {
 ---
 ### Find me
 <div>
-!["https://medium.com/@hacoha"](https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff)
-!["https://facebook.com/100025057463273"](https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff)
-!["https://twitter.com/hacoha"](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
+![https://medium.com/@hacoha](https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff)
+![https://facebook.com/100025057463273](https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff)
+![https://twitter.com/hacoha](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
 </div>
 
 
