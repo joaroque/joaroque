@@ -40,4 +40,4 @@ const anmol = {
 ![@hacoha](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
