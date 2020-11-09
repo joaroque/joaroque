@@ -19,6 +19,7 @@ const anmol = {
         },
         backEnd: {
             node: ["express"],
+            php["laravel"]
         },
         databases: ["MongoDB", "MySQ"],
         desktop: {
