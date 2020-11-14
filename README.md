@@ -19,7 +19,7 @@ const anmol = {
         },
         backEnd: {
             node: ["express"],
-            php["laravel"]
+            python["flask"]
         },
         databases: ["MongoDB", "MySQ"],
         desktop: {
@@ -28,7 +28,7 @@ const anmol = {
         }
     },
     currentFocus: "Create webistes and scripts with Python",
-    funFact: "I want i girlfriend"
+    funFact: "I want a girlfriend"
 };
 ```
 
