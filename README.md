@@ -14,17 +14,18 @@ const anmol = {
     technologies: {
         frontend: {
           html,
-          css["boostrap", "sass"],
-          js["vuejs", "gulp", "jquery"]
+          css: ["boostrap", "sass"],
+          js: ["vuejs", "gulp", "jquery"]
         },
         backEnd: {
             node: ["express"],
-            python["flask"]
+            python: ["flask"],
+            php
         },
         databases: ["MongoDB", "MySQ"],
         desktop: {
-            js["electron"],
-            php["phpdesktop"]
+            js: ["electron"],
+            php: ["phpdesktop"]
         }
     },
     currentFocus: "Create webistes and scripts with Python",
@@ -35,9 +36,9 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="center">
-  <a href="https://medium.com/hacoha"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
+  <a href="https://medium.com/joaquimroque"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
   <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
-  <a href="https://twitter.com/hacooha"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
+  <a href="https://twitter.com/joaquimroque_"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
 </p>
 
 ---
