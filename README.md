@@ -22,7 +22,7 @@ const anmol = {
             python: ["flask"],
             php
         },
-        databases: ["MongoDB", "MySQ"],
+        databases: ["MongoDB", "MySQL", "SQLite3],
         desktop: {
             js: ["electron"],
             php: ["phpdesktop"]
