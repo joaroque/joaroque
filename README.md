@@ -10,9 +10,9 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["PHP", "Python", "C", "JS"],
-    askMeAbout: ["web dev", "tech", "curious"],
+    askMeAbout: ["web dev", "blogger", "curious"],
     technologies: {
-        frontend: {
+        frontEnd: {
           html,
           css: ["boostrap", "sass"],
           js: ["vuejs", "gulp", "jquery"]
@@ -22,13 +22,13 @@ const anmol = {
             python: ["flask"],
             php
         },
-        databases: ["MongoDB", "MySQL", "SQLite3],
+        databases: ["MongoDB", "MySQL", "SQLite3"],
         desktop: {
             js: ["electron"],
             php: ["phpdesktop"]
         }
     },
-    currentFocus: "Create webistes and scripts with Python",
+    currentFocus: "Backend apps with php/laravel",
     funFact: "I want a girlfriend"
 };
 ```
