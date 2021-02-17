@@ -26,9 +26,12 @@ const anmol = {
         desktop: {
             js: ["electron"],
             php: ["phpdesktop"]
-        }
+        },
+        automation: {
+             python: ["Selenium", "Mechanize"]
+         }
     },
-    currentFocus: "Backend apps with php/laravel",
+    currentFocus: "Automation with python",
     funFact: "I want a girlfriend"
 };
 ```
