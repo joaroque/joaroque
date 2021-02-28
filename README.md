@@ -43,7 +43,7 @@ const anmol = {
   <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
   <a href="https://twitter.com/catumua_"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
   <a href="https://instagram.com/catumua_"><img src="https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=instagram&logoColor=fff"></a>
-  <a href="https://pt.stackoverflow.com/users/218471/joa-roque"><img src="https://img.shields.io/badge/_-Stackoverflow-292e33?style=flat-square&logo=stackoverflow&logoColor=fff"></a>
+ 
   
 </p>
 
