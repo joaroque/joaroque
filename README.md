@@ -27,12 +27,12 @@ const anmol = {
             js: ["electron"],
             php: ["phpdesktop"]
         },
-        scripts: {
+        scripts_cli: {
             python,
             ruby,
             shell,
             batch
-        }
+        },
         automation: {
              python: ["Selenium", "Mechanize"]
         }
