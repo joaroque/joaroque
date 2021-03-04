@@ -9,7 +9,7 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["PHP", "Python", "C", "JS"],
+    code: ["Python", "PHP", "C", "JS", "Ruby"],
     askMeAbout: ["web dev", "blogger", "curious"],
     technologies: {
         frontEnd: {
@@ -27,12 +27,18 @@ const anmol = {
             js: ["electron"],
             php: ["phpdesktop"]
         },
+        scripts: {
+            python,
+            ruby,
+            shell,
+            batch
+        }
         automation: {
              python: ["Selenium", "Mechanize"]
-         }
+        }
     },
     currentFocus: "Automation with python",
-    funFact: "I want a girlfriend"
+    funFact: "I want a coder girlfriend"
 };
 ```
 
