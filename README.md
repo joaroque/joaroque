@@ -10,11 +10,11 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Python", "PHP", "C", "JS", "Ruby"],
-    askMeAbout: ["web dev", "blogger", "curious"],
+    askMeAbout: ["Web & graphic designer", "fullstack dev", "blogger", "curious"],
     technologies: {
         frontEnd: {
           html,
-          css: ["boostrap", "sass"],
+          css: ["boostrap", "sass", "bulma"],
           js: ["vuejs", "gulp", "jquery"]
         },
         backEnd: {
@@ -22,7 +22,7 @@ const anmol = {
             python: ["flask"],
             php
         },
-        databases: ["MongoDB", "MySQL", "SQLite3"],
+        databases: ["MariaDB", "MongoDB", "MySQL", "SQLite3"],
         desktop: {
             js: ["electron"],
             php: ["phpdesktop"]
@@ -49,7 +49,7 @@ const anmol = {
   <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
   <a href="https://twitter.com/catumua_"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
   <a href="https://instagram.com/catumua_"><img src="https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=instagram&logoColor=fff"></a>
- 
+ <a href="https://ao.linkedin.com/in/joaquim-catumua-roque"><img src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff"></a>
   
 </p>
 
