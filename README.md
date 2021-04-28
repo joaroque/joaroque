@@ -1,48 +1,7 @@
-### Hi there，I'm Joaquim 🙋‍♂️
-
-<div>
-  <a href="https://joaroque.github.io" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+<div align=center>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Python", "PHP", "C", "JS", "Ruby"],
-    askMeAbout: ["Web & graphic designer", "fullstack dev", "blogger", "curious"],
-    technologies: {
-        frontEnd: {
-          html,
-          css: ["boostrap", "sass", "bulma"],
-          js: ["vuejs", "gulp", "jquery"]
-        },
-        backEnd: {
-            node: ["express"],
-            python: ["flask"],
-            php
-        },
-        databases: ["MariaDB", "MongoDB", "MySQL", "SQLite3"],
-        desktop: {
-            js: ["electron"],
-            php: ["phpdesktop"]
-        },
-        scripts_cli: {
-            python,
-            ruby,
-            shell,
-            batch
-        },
-        automation: {
-             python: ["Selenium", "Mechanize"]
-        }
-    },
-    currentFocus: "Automation with python",
-    funFact: "I want a coder girlfriend"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="center">
   <a href="https://medium.com/catumua"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
