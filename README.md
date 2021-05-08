@@ -19,7 +19,7 @@
                 <br>
         </samp>
         <samp>
-          「 Social Networks」
+          「 All about me 」
           <br>
         </samp>
         <!--Socials Media-->
@@ -42,12 +42,6 @@
         <a href="https://ao.linkedin.com/in/joaquim-catumua-roque" target="_blank"><img 
                         src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff">
         </a>
-        
-  <br>
-         <samp>
-          「 Tools & Languages 」
-          <br>
-        </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Code"
@@ -88,6 +82,8 @@
         <img alt="Joaquim Catumua Roque GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark" />
         <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     </p>
 </details>
 <b>
