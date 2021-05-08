@@ -34,9 +34,9 @@ Databases: <li>
   
 </li>
 Programming Languages
-  ![PHP](https://img.shields.io/badge/PHP-292e33?style=flat-square&logo=php&logoColor=fff)
-  ![Java](https://img.shields.io/badge/Java-292e33?style=flat-square&logo=java&logoColor=fff)
-  ![Python](https://img.shields.io/badge/-Python-292e33?style=flat-square&logo=Python&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-292e33?style=flat-square&logo=php&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-292e33?style=flat-square&logo=java&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-292e33?style=flat-square&logo=Python&logoColor=fff)
 </ul>
   
 
