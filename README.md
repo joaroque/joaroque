@@ -42,15 +42,17 @@
         <a href="https://ao.linkedin.com/in/joaquim-catumua-roque" target="_blank"><img 
                         src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff">
         </a>
+        
+  <br>
+         <samp>
+          「 Tools & Languages 」
+          <br>
+        </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
-         <samp>
-          「 Tools & Languages 」
-          <br>
-        </samp>
         <!-- HTML -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
