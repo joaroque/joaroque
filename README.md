@@ -19,7 +19,7 @@
                 <br>
         </samp>
         <samp>
-          「 Social Networks & Tools 」
+          「 Social Networks」
           <br>
         </samp>
         <!--Socials Media-->
@@ -47,6 +47,10 @@
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
+         <samp>
+          「 Tools & Languages 」
+          <br>
+        </samp>
         <!-- HTML -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -67,9 +71,9 @@
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-PHP-9b3675?style=flat-square&logo=PHP&logoColor=white">
         </a>
-        <!-- Arduino -->
+        <!-- Java -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+                        src="https://img.shields.io/badge/-Java?style=flat-square&logo=Java&logoColor=white">
         </a>
 </p>
 
