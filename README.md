@@ -14,9 +14,9 @@
         <samp>
                 「 From Namibe, Angola 」
                 <br>
-                 <bio>
+                 ^-^-^-^-^
                  Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
-                 </bio>
+                 ^-^-^-^-^
                 <br>
                 <br>
         </samp>
