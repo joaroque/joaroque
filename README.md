@@ -14,11 +14,11 @@
         <samp>
                 「 From Namibe, Angola 」
                 <br>
-                 ^-^-^-^-^
+                 ^-^
                 <br>
                  Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
                 <br>
-                 ^-^-^-^-^
+                 ^-^
                 <br>
                 <br>
         </samp>
