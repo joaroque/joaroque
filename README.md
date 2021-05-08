@@ -1,5 +1,6 @@
 <div align=center>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+ <div class="tenor-gif-embed" data-postid="4691438" data-share-method="host" data-width="100%" data-aspect-ratio="1.9047619047619047"><a href="https://tenor.com/view/monkey-pissed-mad-angry-annoyed-gif-4691438">Monkey Pissed GIF</a> from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- Intro  -->
 <h3 align="center">
