@@ -1,21 +1,10 @@
 <div align=center>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
- </div>
-<div align=center>
-  <em>I am all the time curious and a programmer passionate about technology and video games. 😊</em>
-</div>
-<br>
-<p align="center">
-  <a href="https://medium.com/catumua"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
-  <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
-  <a href="https://twitter.com/catumua_"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
-  <a href="https://instagram.com/catumua_"><img src="https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=instagram&logoColor=fff"></a>
- <a href="https://ao.linkedin.com/in/joaquim-catumua-roque"><img src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff"></a>
-</p>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://joaroque.github.io/">Joaquim Catumua Roque</a></b>
         </samp>
 </h3>
 <br>
@@ -23,9 +12,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Dhaka, Bangladesh 」
+                「 From Namibe, Angola 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 Student, all the time curious and a programmer passionate about <b>technology</b> and video games 」
                 <br>
                 <br>
         </samp>
@@ -66,31 +55,14 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
+        <img alt="Joaquim Catumua Roque GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
         <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
+                src="https://img.shields.io/badge/-Blog-EA4335?style=flat-square&logo=Blog&logoColor=white">
     </p>
 </details>
 <br>
