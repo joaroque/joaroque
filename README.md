@@ -14,30 +14,25 @@
 </p>
 
 ### 🚀💻 More
-<ul>
-  Tools: <li>
-  ![Git](https://img.shields.io/badge/-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=fff)
-  ![GitHub](https://img.shields.io/badge/-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
-  ![Postman](https://img.shields.io/badge/Postman-292e33?style=flat-square&logo=postman&logoColor=fff)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
-  ![Android](https://img.shields.io/badge/Android-292e33?style=flat-square&logo=android&logoColor=fff)
+Tools:
+![Git](https://img.shields.io/badge/-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-292e33?style=flat-square&logo=postman&logoColor=fff)
+![Google Chrome](https://img.shields.io/badge/Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
+![Android](https://img.shields.io/badge/Android-292e33?style=flat-square&logo=android&logoColor=fff)
   
-  </li>
-  Tecnologies: <li>
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-292e33?style=flat-square&logo=openssl&logoColor=fff)
-  ![Apache2](https://img.shields.io/badge/Apache2-292e33?style=flat-square&logo=apache&logoColor=fff)
-</li>
-Databases: <li>
-  ![MySQL](https://img.shields.io/badge/-MySQL-292e33?style=flat-square&logo=mysql&logoColor=fff)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-292e33?style=flat-square&logo=mariadb&logoColor=fff)
+Tecnologies:
+![OpenSSL](https://img.shields.io/badge/OpenSSL-292e33?style=flat-square&logo=openssl&logoColor=fff)
+![Apache2](https://img.shields.io/badge/Apache2-292e33?style=flat-square&logo=apache&logoColor=fff)
+Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-292e33?style=flat-square&logo=mysql&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-292e33?style=flat-square&logo=mariadb&logoColor=fff)
   
-</li>
 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-292e33?style=flat-square&logo=php&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-292e33?style=flat-square&logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-292e33?style=flat-square&logo=Python&logoColor=fff)
-</ul>
   
 
 
