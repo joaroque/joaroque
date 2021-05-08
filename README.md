@@ -15,20 +15,20 @@
 
 ## 🚀💻 Technologies & Tools
 
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![Git](https://img.shields.io/badge/-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-292e33?style=flat-square&logo=visual-studio-code&logoColor=fff)
+  ![Postman](https://img.shields.io/badge/Postman-292e33?style=flat-square&logo=postman&logoColor=fff)
+  ![Apache2](https://img.shields.io/badge/Apache2-292e33?style=flat-square&logo=apache&logoColor=fff)
+  ![PHP](https://img.shields.io/badge/PHP-292e33?style=flat-square&logo=php&logoColor=fff)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-292e33?style=flat-square&logo=openssl&logoColor=fff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-292e33?style=flat-square&logo=mysql&logoColor=fff)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-292e33?style=flat-square&logo=mariadb&logoColor=fff)
+  ![Android](https://img.shields.io/badge/Android-292e33?style=flat-square&logo=android&logoColor=fff)
+  ![Java](https://img.shields.io/badge/Java-292e33?style=flat-square&logo=java&logoColor=fff)
+  ![Python](https://img.shields.io/badge/-Python-292e33?style=flat-square&logo=Python&logoColor=fff)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
+  ![Discord](https://img.shields.io/badge/Discord-292e33?style=flat-square&logo=discord&logoColor=fff)
 
 
 <div align=center>
