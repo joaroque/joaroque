@@ -23,7 +23,6 @@
         <samp>
           「 All about me 」
           <br>
-          <br>
         </samp>
         <!--Socials Media-->
         <!-- Medium -->
@@ -95,5 +94,4 @@
 <p align=center>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
-
 </p>
