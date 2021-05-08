@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
  </div>
 <div align=center>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em>I am all the time curious and a programmer passionate about technology and video games. 😊</em>
 </div>
 <br>
 <p align="center">
