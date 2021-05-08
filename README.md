@@ -19,7 +19,8 @@
                 <br>
         </samp>
         <samp>
-          [Social Networks & Tools]
+          「 Social Networks & Tools 」
+          <br>
         </samp>
         <!--Socials Media-->
         <!-- Medium -->
