@@ -14,11 +14,7 @@
         <samp>
                 「 From Namibe, Angola 」
                 <br>
-                 ^-^
-                <br>
                  Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
-                <br>
-                 ^-^
                 <br>
                 <br>
         </samp>
@@ -72,8 +68,8 @@
                         src="https://img.shields.io/badge/-PHP-9b3675?style=flat-square&logo=PHP&logoColor=white">
         </a>
         <!-- Java -->
-        <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Java?style=flat-square&logo=Java&logoColor=white">
+        <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Java"
+                        src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&logoColor=white">
         </a>
 </p>
 
