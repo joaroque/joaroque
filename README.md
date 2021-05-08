@@ -18,6 +18,9 @@
                 <br>
                 <br>
         </samp>
+        <samp>
+          [Social Networks & Tools]
+        </samp>
         <!--Socials Media-->
         <!-- Medium -->
         <a href="https://medium.com/catumua" target="_blank"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff">
@@ -80,7 +83,7 @@
         <br>
     </p>
 </details>
-
+<b>
 <p align=center>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=hacoa.hacoa)
