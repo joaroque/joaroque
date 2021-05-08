@@ -18,13 +18,26 @@
                 <br>
                 <br>
         </samp>
-  <p align="center">
-  <a href="https://medium.com/catumua"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff"></a>
-  <a href="https://www.facebook.com/100025057463273"><img src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff"></a>
-  <a href="https://twitter.com/catumua_"><img src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff"></a>
-  <a href="https://instagram.com/catumua_"><img src="https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=instagram&logoColor=fff"></a>
- <a href="https://ao.linkedin.com/in/joaquim-catumua-roque"><img src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff"></a>
-</p>
+        <!--Socials Media-->
+        <!-- Medium -->
+        <a href="https://medium.com/catumua" target="_blank"><img src="https://img.shields.io/badge/_-Medium-292e33?style=flat-square&logo=Medium&logoColor=fff">
+        </a>
+        <!-- Facebok -->
+        <a href="https://www.facebook.com/100025057463273" target="_blank"><img 
+                        src="https://img.shields.io/badge/_-Facebook-292e33?style=flat-square&logo=Facebook&logoColor=fff">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/catumua_" target="_blank"><img 
+                        src="https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff">
+        </a>
+        <!-- Instagram -->
+        <a href="https://instagram.com/catumua_" target="_blank"><img 
+                        src="https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=instagram&logoColor=fff">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://ao.linkedin.com/in/joaquim-catumua-roque" target="_blank"><img 
+                        src="https://img.shields.io/badge/_-Linkedin-292e33?style=flat-square&logo=linkedin&logoColor=fff">
+        </a>
         <!-- Programming Languages -->
         <!-- Code logo -->
         <a href="https://github.com/joaroque?tab=repositories" target="_blank"><img alt="Code"
@@ -63,13 +76,8 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Joaquim Catumua Roque GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark" />
         <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="https://pangolano.github.io" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Blog-EA4335?style=flat-square&logo=Blog&logoColor=white">
     </p>
 </details>
 
