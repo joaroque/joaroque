@@ -14,12 +14,15 @@
         <samp>
                 「 From Namibe, Angola 」
                 <br>
-                「 Student, all the time curious and a programmer passionate about <b>technology</b> and video games 」
+                 <bio>
+                 Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
+                 </bio>
                 <br>
                 <br>
         </samp>
         <samp>
           「 All about me 」
+          <br>
           <br>
         </samp>
         <!--Socials Media-->
@@ -79,11 +82,13 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Joaquim Catumua Roque GitHub Stats"
+        <img alt="Joaquim Catumua Roque's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark" />
         <br>
+      <!-- Activity Widget -->
+        <img alt="Joaquim Catumua Roque's Top Langs"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=joaroque&show_icons=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     </p>
 </details>
 <b>
