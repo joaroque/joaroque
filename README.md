@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="200"> 
+  <img src="https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="300"> 
 
 
 <!-- Intro  -->
@@ -14,7 +14,7 @@
         <samp>
                 「 From Namibe, Angola 」
                 <br>
-                 Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
+                 Student, all the time curious and a programmer passionate about web development and hacking 
                 <br>
                 <br>
         </samp>
