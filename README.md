@@ -15,7 +15,9 @@
                 「 From Namibe, Angola 」
                 <br>
                  ^-^-^-^-^
+                <br>
                  Student, all the time curious and a programmer passionate about <b>technology</b> and video games 
+                <br>
                  ^-^-^-^-^
                 <br>
                 <br>
@@ -84,10 +86,6 @@
         <img alt="Joaquim Catumua Roque's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark" />
         <br>
-      <!-- Activity Widget -->
-        <img alt="Joaquim Catumua Roque's Top Langs"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=joaroque&show_icons=true&theme=dark" />
-
     </p>
 </details>
 <b>
