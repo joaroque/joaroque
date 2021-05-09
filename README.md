@@ -1,6 +1,7 @@
 <div align=center>
+  <!-- Intro 
   <img src="https://media1.tenor.com/images/69526a37d84d274e6e01da07bf0ed0b5/tenor.gif" width="300"> 
-
+ -->
 
 <!-- Intro  -->
 <h3 align="center">
