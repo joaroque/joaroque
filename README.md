@@ -13,15 +13,11 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Namibe, Angola 」
+                「 From Angola 」
                 <br>
                  Student, all the time curious and a programmer passionate about web development and hacking 
                 <br>
                 <br>
-        </samp>
-        <samp>
-          「 All about me 」
-          <br>
         </samp>
         <!--Socials Media-->
         <!-- Medium -->
