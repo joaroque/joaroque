@@ -17,7 +17,6 @@
                 <br>
                  Student, all the time curious and a programmer passionate about web development and hacking 
                 <br>
-                <br>
         </samp>
         <!--Socials Media-->
         <!-- Medium -->
