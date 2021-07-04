@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" />
 
 
 - 🔭 I’m currently working on 127.0.0.1
