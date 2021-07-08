@@ -9,12 +9,9 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" />
-
-
 - 🔭 I’m currently working on 127.0.0.1
 
-- 🌱 I’m currently learning Laravel, Rails and React 
+- 🌱 I’m currently learning Laravel, Ruby On Rails and Vue 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
