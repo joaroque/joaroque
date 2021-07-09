@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Joaquim Roque. Sou desenvolvedor <strong>Fullstack</strong>.<br>
-  Actualmente estou focado em desenvolvimento de Rest APIs com NodsJs e bots para automatização de testes com Selenium.
+  Actualmente estou focado em desenvolvimento de <strong>Rest APIs com NodsJs</strong> e <strong>bots</strong> para automatização de testes com <strong>Selenium</strong>.
 </p>
 
 <p align="left">
