@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Joaquim Roque. Sou desenvolvedor <strong>Fullstack</strong>.<br>
-  Actualmente estou focado em desenvolvimento de <strong>Rest APIs com NodsJs</strong> e <strong>bots</strong> para automatização de testes com <strong>Selenium</strong>.
+  Hello world, I'm Joa Roque <strong>Fullstack developer</strong>.<br>
+ I am currently focused on developing **REST APIs** and **bots** for **automation**.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, SCSS, Bootstrap, JS, PHP, Python, Flask, Ruby, Java</strong>
+  🦄 Skills: <strong>HTML, CSS, SCSS, Bootstrap, JS, PHP, Python, Flask, Ruby, Java</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Sublime Text 4, Sellenium, Terminal</strong>
+  💼 Tools: <strong>Git, Sublime Text 4, Selenium, Terminal, BS4, Photoshop</strong>
 </p>
 
 <p align="left">
-  💌 Estou dispnível para trabalhos freelancer: ⤵️
+  💌 Buy me a coffee: ⤵️
 </p>
 
 <p align="left">
