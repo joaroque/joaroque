@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello world, I'm Joa Roque <strong>Fullstack developer</strong>.<br>
- I am currently focused on developing **REST APIs** and **bots** for **automation**.
+ I am currently focused on developing <strong>REST APIs</strong> and <strong>bots</strong> for <strong>automation</strong>.
 </p>
 
 <p align="left">
