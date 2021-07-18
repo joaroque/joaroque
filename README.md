@@ -1,32 +1,29 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Hello folkers, I'm Joa Roque 🐧
 
-<p align="left"> 
-  Hello world, I'm Joa Roque <strong>Fullstack developer</strong>.<br>
- I am currently focused on developing <strong>REST APIs</strong> and <strong>bots</strong> for <strong>automation</strong>.
-</p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaroque)](https://github.com/joaroque)
+badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanmateuz/)](https://www.linkedin.com/in/joaquim-catumua-roque/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luanmateuz)](https://twitter.com/catumua_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/catumua_/)](https://www.instagram.com/luanmateuzz/)
 
-<p align="left">
-  🦄 Skills: <strong>HTML, CSS, SCSS, Bootstrap, JS, PHP, Python, Flask, Ruby, Java</strong>
-</p>
+>👨🏻‍💻 Information Technology Student
 
-<p align="left">
-  💼 Tools: <strong>Git, Sublime Text 4, Selenium, Terminal, BS4, Photoshop</strong>
-</p>
+[![Luan Mateus Github Stats](https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/joaroque)
 
-<p align="left">
-  💌 Buy me a coffee: ⤵️
-</p>
+## About me 
 
-<p align="left">
-  <a href="mailto:catumuaroque@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=catumuaroque@gmail.com" /></a>
+⚡️ I love computers and programmin. Try make my country better 🤓.
 
-  <a href="https://ao.linkedin.com/in/joaquim-catumua-roque" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://ao.linkedin.com/in/joaquim-catumua-roque/e" /></a>
 
-  <a href="https://free.facebook.com/profile.php?id=100025057463273" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://free.facebook.com/profile.php?id=100025057463273"/></a>
+- 🌎 I'm from Namibe - Angola
+- 🎬 I like to study and watching series/movies
+- 💎 I love to customize everything
 
-  <a href="https://instagram.com/catumua_" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/catumua_"/></a>
-</p>  
+## Studying now
+
+📝 Knowledge is never too much, these are the content I'm focused on at the moment.
+
+- ☕️ Java
+- ⚡️ Javascript
+- 🐘 PHP
+- 🐬 MySQL
+- 🎲 Data Structures
