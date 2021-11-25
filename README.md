@@ -7,9 +7,6 @@
 
 >👨🏻‍💻 Web & graphic designer, frontend developer and SI enthusiast..
 
-[![Joa Roque Github Stats](https://github-readme-stats.vercel.app/api?username=joaroque&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)](https://github.com/joaroque)
-
-
 ## About me 
 
 ⚡️ I love computers, programming(i'm Pythonist 🐍)... I hope it will be my better country 🤓.
