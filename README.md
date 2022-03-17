@@ -9,7 +9,7 @@
 
 ## About me 
 
-⚡️ I love computers, programming(i'm Pythonist 🐍)... I hope it will be my better country 🤓.
+⚡️ I love computers, programming(i'm Pythonist 🐍)...
 
 
 - 🌎 I'm from Namibe - Angola
