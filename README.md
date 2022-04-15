@@ -5,13 +5,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/catumua_)](https://twitter.com/joaroque_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23fb3958?style=flat-square&labelColor=%23fb3958&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/catumua_/)](https://www.instagram.com/joaroque_/)
 
->👨🏻‍💻 Web & graphic designer, frontend developer and SI enthusiast..
+>👨🏻‍💻 Pythonist | UI Designer | Web Developer
 
 ## About me 
 
-⚡️ I love computers, programming(i'm Pythonist 🐍)...
+⚡️ I love computers, programming...
 
 
-- 🌎 I'm from Namibe - Angola
+- 🌎 I'm from Angola
 - 🎬 I like to study and watching series/movies
 - 💎 I love to customize everything
